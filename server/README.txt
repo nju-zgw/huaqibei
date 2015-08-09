@@ -1,0 +1,1 @@
+服务端使用idea下的SpringMVC工程模板，只同步src和pom文件夹，切记。
