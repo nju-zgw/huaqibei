@@ -1,1 +1,1 @@
-�����ʹ��idea�µ�SpringMVC����ģ�壬ֻͬ��src��pom�ļ��У��мǡ�
+服务端使用idea下的SpringMVC工程模板，只同步src和pom文件夹。
